@@ -33,10 +33,10 @@ export const navLinks = [
     id: "about",
     title: "About",
   },
-  {
-    id: "work",
-    title: "Work",
-  },
+  // {
+  //   id: "work",
+  //   title: "Work",
+  // },
   {
     id: "contact",
     title: "Contact",
@@ -48,10 +48,10 @@ const services = [
     title: "Frontend Developer",
     icon: mobile,
   },
-  {
-    title: "Backend Developer",
-    icon: backend,
-  },
+  // {
+  //   title: "Backend Developer",
+  //   icon: backend,
+  // },
 ];
 
 const technologies = [
@@ -75,38 +75,38 @@ const technologies = [
     name: "React JS",
     icon: reactjs,
   },
-  {
-    name: "Next JS",
-    icon: nextjs,
-  },
+  // {
+  //   name: "Next JS",
+  //   icon: nextjs,
+  // },
   {
     name: "Redux Toolkit",
     icon: redux,
   },
-  {
-    name: "Node JS",
-    icon: nodejs,
-  },
-  {
-    name: "Express JS",
-    icon: expressjs,
-  },
-  {
-    name: "Nest JS",
-    icon: nestjs,
-  },
+  // {
+  //   name: "Node JS",
+  //   icon: nodejs,
+  // },
+  // {
+  //   name: "Express JS",
+  //   icon: expressjs,
+  // },
+  // {
+  //   name: "Nest JS",
+  //   icon: nestjs,
+  // },
   {
     name: "Tailwind CSS",
     icon: tailwind,
   },
-  // {
-  //   name: "SCSS",
-  //   icon: scss,
-  // },
   {
-    name: "MongoDB",
-    icon: mongodb,
+    name: "SCSS",
+    icon: scss,
   },
+  // {
+  //   name: "MongoDB",
+  //   icon: mongodb,
+  // },
   {
     name: "git",
     icon: git,
@@ -116,8 +116,6 @@ const technologies = [
   //   icon: docker,
   // },
 ];
-
-
 
 const experiences = [
   /* 
